@@ -1,0 +1,15 @@
+body{
+    background: #faedcd;
+}
+.myClock{
+    border-radius: 20px 0px;
+    background-color: #14213d;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    color: #2a9d8f;
+    font-size :59px;
+    font-family: Fantasy;
+    letter-spacing: 7px;
+}
